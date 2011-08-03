@@ -2,7 +2,7 @@
 ## Title: |cff1784d1ElvUI|r Postal Skin
 ## Notes: Editless Postal Skin For ElvUI/Tukui
 ## Author: Cadayron
-## Version: 1.0.2
+## Version: 1.1
 ## Dependencies: Postal
 ## OptionalDeps: Tukui, ElvUI
 
