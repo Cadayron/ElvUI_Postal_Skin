@@ -1,10 +1,10 @@
-## Interface: 40200
+## Interface: 40300
 ## Title: |cff1784d1ElvUI|r Postal Skin
 ## Notes: Editless Postal Skin For ElvUI/Tukui
 ## Author: Cadayron
-## Version: 1.1
+## Version: 2.0
 ## Dependencies: Postal
 ## OptionalDeps: Tukui, ElvUI
 
 ElvUI_Postal_Skin.lua
-
+!Functions.lua
